@@ -1,0 +1,14 @@
+D:\IVS.DuongPhamQuocDuong\IVS.Models\bin\Debug\IVS.Models.dll
+D:\IVS.DuongPhamQuocDuong\IVS.Models\bin\Debug\IVS.Models.pdb
+D:\IVS.DuongPhamQuocDuong\IVS.Models\obj\Debug\IVS.Models.dll
+D:\IVS.DuongPhamQuocDuong\IVS.Models\obj\Debug\IVS.Models.pdb
+D:\IVS.DuongPhamQuocDuong-v0.4\IVS.DuongPhamQuocDuong\IVS.Models\bin\Debug\IVS.Models.dll
+D:\IVS.DuongPhamQuocDuong-v0.4\IVS.DuongPhamQuocDuong\IVS.Models\bin\Debug\IVS.Models.pdb
+D:\IVS.DuongPhamQuocDuong-v0.4\IVS.DuongPhamQuocDuong\IVS.Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\IVS.DuongPhamQuocDuong-v0.4\IVS.DuongPhamQuocDuong\IVS.Models\obj\Debug\IVS.Models.dll
+D:\IVS.DuongPhamQuocDuong-v0.4\IVS.DuongPhamQuocDuong\IVS.Models\obj\Debug\IVS.Models.pdb
+D:\TrainningASP.NET_NguyenTuanDuyKhoa\IVS.DuongPhamQuocDuong\IVS.Models\bin\Debug\IVS.Models.dll
+D:\TrainningASP.NET_NguyenTuanDuyKhoa\IVS.DuongPhamQuocDuong\IVS.Models\bin\Debug\IVS.Models.pdb
+D:\TrainningASP.NET_NguyenTuanDuyKhoa\IVS.DuongPhamQuocDuong\IVS.Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\TrainningASP.NET_NguyenTuanDuyKhoa\IVS.DuongPhamQuocDuong\IVS.Models\obj\Debug\IVS.Models.dll
+D:\TrainningASP.NET_NguyenTuanDuyKhoa\IVS.DuongPhamQuocDuong\IVS.Models\obj\Debug\IVS.Models.pdb

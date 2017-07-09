@@ -1,0 +1,5 @@
+D:\IVS.Fresher.TranTuanKhai\IVS.Models\bin\Debug\IVS.Models.dll
+D:\IVS.Fresher.TranTuanKhai\IVS.Models\bin\Debug\IVS.Models.pdb
+D:\IVS.Fresher.TranTuanKhai\IVS.Models\obj\Debug\IVS.Models.csprojResolveAssemblyReference.cache
+D:\IVS.Fresher.TranTuanKhai\IVS.Models\obj\Debug\IVS.Models.dll
+D:\IVS.Fresher.TranTuanKhai\IVS.Models\obj\Debug\IVS.Models.pdb

@@ -1,0 +1,15 @@
+D:\IVS.DuongPhamQuocDuong\IVS.Components\bin\Debug\IVS.Components.dll
+D:\IVS.DuongPhamQuocDuong\IVS.Components\bin\Debug\IVS.Components.pdb
+D:\IVS.DuongPhamQuocDuong\IVS.Components\obj\Debug\Components.csprojResolveAssemblyReference.cache
+D:\IVS.DuongPhamQuocDuong\IVS.Components\obj\Debug\IVS.Components.dll
+D:\IVS.DuongPhamQuocDuong\IVS.Components\obj\Debug\IVS.Components.pdb
+D:\IVS.DuongPhamQuocDuong-v0.4\IVS.DuongPhamQuocDuong\IVS.Components\bin\Debug\IVS.Components.dll
+D:\IVS.DuongPhamQuocDuong-v0.4\IVS.DuongPhamQuocDuong\IVS.Components\bin\Debug\IVS.Components.pdb
+D:\IVS.DuongPhamQuocDuong-v0.4\IVS.DuongPhamQuocDuong\IVS.Components\obj\Debug\Components.csprojResolveAssemblyReference.cache
+D:\IVS.DuongPhamQuocDuong-v0.4\IVS.DuongPhamQuocDuong\IVS.Components\obj\Debug\IVS.Components.dll
+D:\IVS.DuongPhamQuocDuong-v0.4\IVS.DuongPhamQuocDuong\IVS.Components\obj\Debug\IVS.Components.pdb
+D:\TrainningASP.NET_NguyenTuanDuyKhoa\IVS.DuongPhamQuocDuong\IVS.Components\bin\Debug\IVS.Components.dll
+D:\TrainningASP.NET_NguyenTuanDuyKhoa\IVS.DuongPhamQuocDuong\IVS.Components\bin\Debug\IVS.Components.pdb
+D:\TrainningASP.NET_NguyenTuanDuyKhoa\IVS.DuongPhamQuocDuong\IVS.Components\obj\Debug\Components.csprojResolveAssemblyReference.cache
+D:\TrainningASP.NET_NguyenTuanDuyKhoa\IVS.DuongPhamQuocDuong\IVS.Components\obj\Debug\IVS.Components.dll
+D:\TrainningASP.NET_NguyenTuanDuyKhoa\IVS.DuongPhamQuocDuong\IVS.Components\obj\Debug\IVS.Components.pdb

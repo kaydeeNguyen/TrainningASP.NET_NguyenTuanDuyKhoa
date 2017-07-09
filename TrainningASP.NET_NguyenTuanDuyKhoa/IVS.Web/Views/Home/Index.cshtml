@@ -1,0 +1,83 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<section class="content-header">
+    <h1>
+        Control panel
+    </h1>
+    <ol class="breadcrumb">
+        <li><i class="fa fa-dashboard"></i> Home</li>
+    </ol>
+</section>
+
+<style>
+    .block {
+        border: 1px solid green;
+        text-align: center;
+        vertical-align: middle;
+    }
+
+    .square {
+        background: aqua;
+        border-radius: 200px;
+        color: white;
+        height: 200px;
+        font-weight: bold;
+        width: 200px;
+        display: table;
+        margin: 20px auto;
+    }
+
+    .circle p {
+        vertical-align: middle;
+        display: table-cell;
+    }
+</style>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-4 block">
+            <div class="circle">
+                <div class="inner">
+                    <h3>Category</h3>
+                    <br />
+                </div>
+                <div class="icon">
+                    <i class="fa fa-list"></i>
+                </div>
+                <p>
+                    <a href="@Url.Action("Index", "Category", new { })" class="small-box-footer">More info <i class="fa fa-arrow-circle-right"></i></a>
+                </p>
+            </div>
+        </div>
+        <div class="col-md-4 block">
+            <div class="circle">
+                <div class="inner">
+                    <h3>Item</h3>
+                    <br />
+                </div>
+                <div class="icon">
+                    <i class="fa fa-cubes"></i>
+                </div>
+                <p>
+                    <a href="@Url.Action("Index", "Item", new { })" class="small-box-footer">More info <i class="fa fa-arrow-circle-right"></i></a>
+                </p>
+            </div>
+        </div>
+        <div class="col-md-4 block">
+            <div class="circle">
+                <div class="inner">
+                    <h3>Measure</h3>
+                    <br />
+                </div>
+                <div class="icon">
+                    <i class="fa fa-exchange"></i>
+                </div>
+                <p>
+                    <a href="@Url.Action("Index", "Measure", new { })" class="small-box-footer">More info <i class="fa fa-arrow-circle-right"></i></a>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>

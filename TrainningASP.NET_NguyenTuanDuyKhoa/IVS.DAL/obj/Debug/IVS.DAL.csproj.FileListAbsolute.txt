@@ -1,0 +1,14 @@
+D:\IVS.Fresher.TranTuanKhai\IVS.DAL\obj\Debug\IVS.DAL.csprojResolveAssemblyReference.cache
+D:\IVS.Fresher.TranTuanKhai\IVS.DAL\bin\Debug\IVS.DAL.dll.config
+D:\IVS.Fresher.TranTuanKhai\IVS.DAL\bin\Debug\IVS.DAL.dll
+D:\IVS.Fresher.TranTuanKhai\IVS.DAL\bin\Debug\IVS.DAL.pdb
+D:\IVS.Fresher.TranTuanKhai\IVS.DAL\bin\Debug\Dapper.dll
+D:\IVS.Fresher.TranTuanKhai\IVS.DAL\bin\Debug\IVS.Components.dll
+D:\IVS.Fresher.TranTuanKhai\IVS.DAL\bin\Debug\IVS.Models.dll
+D:\IVS.Fresher.TranTuanKhai\IVS.DAL\bin\Debug\MySql.Data.dll
+D:\IVS.Fresher.TranTuanKhai\IVS.DAL\bin\Debug\MySql.Web.dll
+D:\IVS.Fresher.TranTuanKhai\IVS.DAL\bin\Debug\IVS.Components.pdb
+D:\IVS.Fresher.TranTuanKhai\IVS.DAL\bin\Debug\IVS.Models.pdb
+D:\IVS.Fresher.TranTuanKhai\IVS.DAL\bin\Debug\Dapper.xml
+D:\IVS.Fresher.TranTuanKhai\IVS.DAL\obj\Debug\IVS.DAL.dll
+D:\IVS.Fresher.TranTuanKhai\IVS.DAL\obj\Debug\IVS.DAL.pdb

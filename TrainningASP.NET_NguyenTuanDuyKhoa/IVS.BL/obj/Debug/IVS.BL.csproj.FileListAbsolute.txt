@@ -1,0 +1,12 @@
+D:\IVS.Fresher.TranTuanKhai\IVS.BL\obj\Debug\IVS.BL.csprojResolveAssemblyReference.cache
+D:\IVS.Fresher.TranTuanKhai\IVS.BL\bin\Debug\IVS.BL.dll
+D:\IVS.Fresher.TranTuanKhai\IVS.BL\bin\Debug\IVS.BL.pdb
+D:\IVS.Fresher.TranTuanKhai\IVS.BL\bin\Debug\IVS.DAL.dll
+D:\IVS.Fresher.TranTuanKhai\IVS.BL\bin\Debug\IVS.Models.dll
+D:\IVS.Fresher.TranTuanKhai\IVS.BL\bin\Debug\MySql.Data.dll
+D:\IVS.Fresher.TranTuanKhai\IVS.BL\bin\Debug\Dapper.dll
+D:\IVS.Fresher.TranTuanKhai\IVS.BL\bin\Debug\IVS.DAL.pdb
+D:\IVS.Fresher.TranTuanKhai\IVS.BL\bin\Debug\IVS.Models.pdb
+D:\IVS.Fresher.TranTuanKhai\IVS.BL\bin\Debug\Dapper.xml
+D:\IVS.Fresher.TranTuanKhai\IVS.BL\obj\Debug\IVS.BL.dll
+D:\IVS.Fresher.TranTuanKhai\IVS.BL\obj\Debug\IVS.BL.pdb
